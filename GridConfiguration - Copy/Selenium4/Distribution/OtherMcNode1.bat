@@ -1,0 +1,1 @@
+cmd /C start/MIN java -jar selenium-server-4.3.0.jar node --port 9999 --detect-drivers true --publish-events tcp://10.103.3.178:4442 --subscribe-events tcp://10.103.3.178:4443

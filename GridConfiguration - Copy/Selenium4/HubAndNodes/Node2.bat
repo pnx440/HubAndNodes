@@ -1,0 +1,1 @@
+cmd /C start/MIN java -jar selenium-server-4.3.0.jar node --port 1113 --max-sessions 1 --session-timeout 300000

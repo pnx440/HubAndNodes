@@ -1,0 +1,1 @@
+cmd /C start "178 Node1"/MIN java -jar selenium-server-4.3.0.jar node --detect-drivers true --publish-events tcp://10.103.3.178:4442 --subscribe-events tcp://10.103.3.178:4443

@@ -1,0 +1,1 @@
+cmd /C start/MIN java -jar selenium-server-4.3.0.jar standalone --max-sessions 2

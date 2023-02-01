@@ -1,0 +1,1 @@
+cmd /C start "Distributor"/MIN java -jar selenium-server-4.3.0.jar distributor --sessions http://10.103.3.178:5556 --sessionqueue http://10.103.3.178:5559 --bind-bus false

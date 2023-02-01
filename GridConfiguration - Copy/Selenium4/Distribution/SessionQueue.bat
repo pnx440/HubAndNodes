@@ -1,0 +1,1 @@
+cmd /C start "Session Queue"/MIN java -jar selenium-server-4.3.0.jar sessionqueue

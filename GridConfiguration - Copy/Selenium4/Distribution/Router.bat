@@ -1,0 +1,1 @@
+cmd /C start "Router"/MIN java -jar selenium-server-4.3.0.jar router --sessions http://10.103.3.178:5556 --distributor http://10.103.3.178:5553 --sessionqueue http://10.103.3.178:5559
